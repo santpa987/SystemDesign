@@ -1,2 +1,3 @@
 # System Design Topics
-Place to quickly learn system design topics.
+This space is for system desing concept and understanding.
+
